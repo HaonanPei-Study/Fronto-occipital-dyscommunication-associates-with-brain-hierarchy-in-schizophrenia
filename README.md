@@ -9,5 +9,5 @@ The implementation of cortical traveling waves is based on open-source code (htt
 The PROCESS macro for the Statistical Package for the Social Sciences was used to perform the moderation analysis.
 Linear mixed-effects models were constructed using the lme4 package in R 4.3.1.
 The implementation of spatial autocorrelation-preserving permutation tests is based on ENIGMA toolbox (https://enigma-toolbox.readthedocs.io/en/latest/).
-The dominance analysis was conducted using custom MATLAB code, which was stored in the Code folder.
+The dominance analysis was conducted using custom MATLAB code.
 
